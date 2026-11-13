@@ -1,3 +1,10 @@
-tools/
-.claude/
-진단/
+# 배포에는 쓰는 사람에게 필요한 것만 — 정리기 화면 · rules/ · data/
+# 여기 적지 않은 것(README · 정리/ · tools/ · .claude/ · 정리본/ · 진단/ …)은 모두 빠진다
+/*
+!/index.html
+!/app.js
+!/clean.js
+!/style.css
+!/lib
+!/rules
+!/data
